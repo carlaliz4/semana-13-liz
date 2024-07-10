@@ -1,0 +1,12 @@
+.red-text{
+    color:red;/*color rojo*/
+}
+.blue-background{
+    background-color: blue;/*fonfo azul*/
+    color:white/*texto blanco para contaste*/
+    
+}
+.green-border{
+    border:2px solid green;/*border solido verde*/
+    padding: 10px;
+}
